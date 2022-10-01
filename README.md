@@ -1,7 +1,7 @@
 # [Curso completo de Machine Learning: Data Science en Python](https://www.udemy.com/course/machinelearningpython/)
 
 ## Requisitos
-* Se necesitan conocimientos de matemáticas de bachillerato o conocimientos básicos de estadística
+* Se necesitan conocimientos de matemáticas de **bachillerato** o conocimientos básicos de estadística
 * Se recomienda saber programar un poco para enfocarse en aprender las técnicas de análisis en Python aunque no es totalmente necesario
 ## Descripción
 ¿Te suenan las palabras Machine Learning o Data Scientist? ¿Te pica la curiosidad de para qué sirven estas técnicas o por qué empresas de todo el mundo pagan un sueldo de 120.000 hasta 200.000$ al año a un científico de datos? 
